@@ -1,8 +1,8 @@
 # Density-Based-Place-Clusterig-Using-Geo-Social-Data
 
 ## Team Members
-- Keerti Chaudhary, 181CO226
-- Shumbul Arifa, 181CO152
+- [Keerti Chaudhary](https://github.com/keerti2001/), 181CO226
+- [Shumbul Arifa](https://github.com/shumbul), 181CO152
 
 ## Datasets
 1. Gowalla dataset - http://snap.stanford.edu/data/loc-Gowalla.html
